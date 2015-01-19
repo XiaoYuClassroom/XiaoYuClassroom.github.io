@@ -1,8 +1,6 @@
+<ul>
+<li><a href="https://twitter.com/XiaoYuClassroom"><i class="fa fa-3x fa-twitter-square"></i></a></li>
+<li><a href="mailto:XiaoYuClassroom@gmail.com"><i class="fa fa-3x fa-envelope-square"></i></a></li>
+</ul>
 
-
-Design by Tim O'Brien [t413.com](http://t413.com/)
-&mdash;
-[SinglePaged theme](https://github.com/t413/SinglePaged)
-&mdash;
-this site is [open source]({{ site.source_link }})
-
+##### Copyright &copy; 2015 XiaoYu Classroom 
