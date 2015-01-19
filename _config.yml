@@ -15,7 +15,7 @@ highlighter: pygments
 
 
 ### content configuration ###
-title:       "小雨教室 -- 微软数据库及商务智能课程"
+title:       "小雨教室 - 微软数据库及商务智能课程"
 keywords:    "Xiaoyu classroom, Microsoft, SQL, Business intelligence, SSRS, TSQL, Jobs, Education"
 description: "A single-page template for Jekyll based blogs"
 source_link: "https://github.com/t413/SinglePaged"
