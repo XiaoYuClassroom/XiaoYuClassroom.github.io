@@ -280,8 +280,8 @@ nav ul li:hover, nav ul li.active {
   font-family:arial,sans-serif;
   text-align:center;
   font-weight:700;
-  font-size:1rem;
-  line-height:2rem;
+  font-size:2rem;
+  line-height:3rem;
   position:relative;
   transition:.5s;
   padding:5px 40px;
