@@ -1,6 +1,6 @@
 ---
 title: "联系我们"
-bg: '#F7F2F7'
+bg: '#CDCEF5'
 color: '#0C0D69'
 fa-icon: comments
 ---
