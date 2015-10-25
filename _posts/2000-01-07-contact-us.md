@@ -8,10 +8,10 @@ fa-icon: comments
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="W78FCCXF77HJQ">
 <table>
-<tr><td><input type="hidden" name="on0" value="Training Programs"><h4>Training Program Registration</h4></td></tr><tr><td><select name="os0">
-	<option value="BI Video Courses(TSQL+SSRS+SSIS+SSAS)">BI Video Courses(TSQL+SSRS+SSIS+SSAS) $1,800.00 USD</option>
-	<option value="1 on 1 Interview Workshop">1 on 1 Interview Workshop $2,000.00 USD</option>
-	<option value="Realtime Technical Support(Per Month)">Realtime Technical Support(Per Month) $2,000.00 USD</option>
+<tr><td><input type="hidden" name="on0" value="Training Programs"><h4>选择课程</h4></td></tr><tr><td><select name="os0">
+	<option value="BI Video Courses(TSQL+SSRS+SSIS+SSAS)">商务智能视频课程(TSQL+SSRS+SSIS+SSAS) $1,800.00 USD</option>
+	<option value="1 on 1 Interview Workshop">一对一面试辅导(Mock interviews, Customized resume, HR advice) $2,000.00 USD</option>
+	<option value="Realtime Technical Support(Per Month)">上岗实时技术支持(每月) $2,000.00 USD</option>
 </select> </td></tr>
 </table>
 <input type="hidden" name="currency_code" value="USD">
