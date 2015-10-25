@@ -9,9 +9,9 @@ fa-icon: comments
 <input type="hidden" name="hosted_button_id" value="W78FCCXF77HJQ">
 <table>
 <tr><td><input type="hidden" name="on0" value="Programs">Programs</td></tr><tr><td><select name="os0">
-	<option value="BI Video Courses">BI Video Courses $1,800.00 USD</option>
-	<option value="1 on 1">1 on 1 $2,000.00 USD</option>
-	<option value="Tech Support (per month)">Tech Support (per month) $2,000.00 USD</option>
+	<option value="&#21830;&#21153;&#26234;&#33021;&#35270;&#39057;&#35838;&#31243;">&#21830;&#21153;&#26234;&#33021;&#35270;&#39057;&#35838;&#31243; $1,800.00 USD</option>
+	<option value="&#19968;&#23545;&#19968;&#23601;&#19994;&#38754;&#35797;&#36741;&#23548;">&#19968;&#23545;&#19968;&#23601;&#19994;&#38754;&#35797;&#36741;&#23548; $2,000.00 USD</option>
+	<option value="&#19978;&#23703;&#23454;&#26102;&#25216;&#26415;&#25903;&#25345;">&#19978;&#23703;&#23454;&#26102;&#25216;&#26415;&#25903;&#25345; $2,000.00 USD</option>
 </select> </td></tr>
 </table>
 <input type="hidden" name="currency_code" value="USD">
