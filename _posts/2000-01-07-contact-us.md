@@ -9,9 +9,9 @@ fa-icon: comments
 <input type="hidden" name="hosted_button_id" value="W78FCCXF77HJQ">
 <table>
 <tr><td><input type="hidden" name="on0" value="Training Programs"><h4>选择课程</h4></td></tr><tr><td><select name="os0">
-	<option value="BI Video Courses(TSQL+SSRS+SSIS+SSAS)">商务智能视频课程BI Video Courses(TSQL+SSRS+SSIS+SSAS) $1,800.00 USD</option>
+	<option value="BI Video Courses(TSQL+SSRS+SSIS+SSAS)">商务智能视频课程BI Video Courses(TSQL+SSRS+SSIS+SSAS) $2,000.00 USD</option>
 	<option value="1 on 1 Interview Workshop">一对一面试辅导1 on 1 Interview Workshop(Mock Interviews, Customized Resume, HR Advices) $2,000.00 USD</option>
-	<option value="On-Job Technical Support(Per Month)">上岗实时技术支持On-Job Technical Support(每月) $2,000.00 USD</option>
+	<option value="On-Job Technical Support(Per Month)">上岗实时技术支持On-Job Technical Support(每月) $1,000.00 USD</option>
 </select> </td></tr>
 </table>
 <!-- PayPal Logo --><table border="0" cellpadding="10" cellspacing="0" align="center"><tr><td align="center"></td></tr><tr><td align="center"><a href="https://www.paypal.com/webapps/mpp/paypal-popup" title="How PayPal Works" onclick="javascript:window.open('https://www.paypal.com/webapps/mpp/paypal-popup','WIPaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=1060, height=700'); return false;"><img src="https://www.paypalobjects.com/webstatic/mktg/logo/AM_mc_vs_dc_ae.jpg" border="0" alt="PayPal Acceptance Mark"></a></td></tr></table><!-- PayPal Logo -->
