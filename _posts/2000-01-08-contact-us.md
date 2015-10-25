@@ -1,5 +1,5 @@
 ---
-title: "培训注册"
+title: "联系我们"
 bg: '#F7F2F7'
 color: '#0C0D69'
 fa-icon: comment
