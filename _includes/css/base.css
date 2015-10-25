@@ -205,8 +205,8 @@
 ================================================== */
 
 	form {
-		margin: 0 auto; 
-		width:250px; }
+		margin: 0 auto 20px auto; 
+		text-align:center; }
 	fieldset {
 		margin-bottom: 20px; }
 	input[type="text"],
@@ -247,7 +247,9 @@
 		font-weight: bold;
 		font-size: 13px;  }
 	select {
-		width: auto; }
+		width: auto; 
+		margin: 0 auto 20px auto;
+	}
 	input[type="checkbox"] {
 		display: inline; }
 	label span,
