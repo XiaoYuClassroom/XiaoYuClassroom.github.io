@@ -205,8 +205,8 @@
 ================================================== */
 
 	form {
-		margin: 0 auto;
-		margin-bottom: 20px; }
+		margin: 0 auto; 
+		width:250px; }
 	fieldset {
 		margin-bottom: 20px; }
 	input[type="text"],
