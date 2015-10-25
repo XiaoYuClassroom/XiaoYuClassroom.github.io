@@ -8,7 +8,7 @@ fa-icon: comments
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="W78FCCXF77HJQ">
 <table>
-<tr><td><input type="hidden" name="on0" value="Training Programs">Training Programs</td></tr><tr><td><select name="os0">
+<tr><td><input type="hidden" name="on0" value="Training Programs"><h4>Training Program Registration</h4></td></tr><tr><td><select name="os0">
 	<option value="BI Video Courses(TSQL+SSRS+SSIS+SSAS)">BI Video Courses(TSQL+SSRS+SSIS+SSAS) $1,800.00 USD</option>
 	<option value="1 on 1 Interview Workshop">1 on 1 Interview Workshop $2,000.00 USD</option>
 	<option value="Realtime Technical Support(Per Month)">Realtime Technical Support(Per Month) $2,000.00 USD</option>
