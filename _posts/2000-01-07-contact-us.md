@@ -15,7 +15,7 @@ fa-icon: comments
 </select> </td></tr>
 </table>
 <input type="hidden" name="currency_code" value="USD">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<input type="image" src="https://www.paypalobjects.com/zh_XC/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal——最安全便捷的在线支付方式！">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 <!-- PayPal Logo -->
 <table border="0" cellpadding="10" cellspacing="0" align="center">
