@@ -2,7 +2,7 @@
 title: "培训注册"
 bg: '#CDCEF5'
 color: '#0C0D69'
-fa-icon: comments
+fa-icon: check-square-o
 ---
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
