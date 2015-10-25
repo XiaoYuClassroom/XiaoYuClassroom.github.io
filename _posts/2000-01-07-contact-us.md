@@ -9,9 +9,9 @@ fa-icon: comments
 <input type="hidden" name="hosted_button_id" value="W78FCCXF77HJQ">
 <table>
 <tr><td><input type="hidden" name="on0" value="Training Programs"><h4>选择课程</h4></td></tr><tr><td><select name="os0">
-	<option value="BI Video Courses(TSQL+SSRS+SSIS+SSAS)">商务智能视频课程(TSQL+SSRS+SSIS+SSAS) $1,800.00 USD</option>
-	<option value="1 on 1 Interview Workshop">一对一面试辅导(Mock interviews, Customized resume, HR advice) $2,000.00 USD</option>
-	<option value="Realtime Technical Support(Per Month)">上岗实时技术支持(每月) $2,000.00 USD</option>
+	<option value="BI Video Courses(TSQL+SSRS+SSIS+SSAS)">商务智能视频课程BI Video Courses(TSQL+SSRS+SSIS+SSAS) $1,800.00 USD</option>
+	<option value="1 on 1 Interview Workshop">一对一面试辅导1 on 1 Interview Workshop(Mock interviews, Customized resume, HR advice) $2,000.00 USD</option>
+	<option value="On-Job Technical Support(Per Month)">上岗实时技术支持On-Job Technical Support(每月) $2,000.00 USD</option>
 </select> </td></tr>
 </table>
 <input type="hidden" name="currency_code" value="USD">
