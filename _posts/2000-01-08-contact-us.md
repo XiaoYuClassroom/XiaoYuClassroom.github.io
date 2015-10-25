@@ -2,7 +2,7 @@
 title: "联系我们"
 bg: '#F7F2F7'
 color: '#0C0D69'
-fa-icon: comment
+fa-icon: comments
 ---
 #### 大家有任何关于教学和工作的问题，欢迎进入<a href="http://forum.xiaoyuclassroom.com" style="font-weight: bold;">论坛</a>参与讨论
 
