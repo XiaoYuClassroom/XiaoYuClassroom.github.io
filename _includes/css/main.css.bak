@@ -31,7 +31,7 @@ html { box-sizing: border-box; }
 code, pre { font-family: Monaco, Menlo, Consolas, "Courier New", monospace; }
 
 /* spesifically inline code */
-code, pre {
+code {
   background: rgba(255,255,255,0.2);
   display: inline;
   word-wrap: break-word;
@@ -47,7 +47,7 @@ pre {
   word-wrap: break-word;
 }
 
-.highlight { margin:20px 5%; }
+.highlighttable { margin:20px 5%; }
 
 
 /* ----- base elements ----- */
@@ -111,8 +111,8 @@ hr {
 
 /* ----- top menu ----- */
 
-{% assign navborder = 3 %}
-{% assign navborder_active = 6 %}
+{% assign navborder = 10 %}
+{% assign navborder_active = 20 %}
 
 nav {
   font-size:15px;
@@ -135,7 +135,7 @@ nav ul {
 nav ul li {
   display:inline-block;
   border-top:{{navborder}}px solid;
-  padding: {{navborder}}px;
+  padding: {{navborder}}px 0;
   *display:inline;
   zoom:1;
   line-height:normal;
@@ -151,11 +151,10 @@ nav ul li a, nav ul li a:visited {
   color:#fff;
   text-decoration:none;
   font-weight:600;
-  opacity:.75;
 }
 
 nav ul li a:hover {
-  opacity:1
+  color:#CDCEF5
 }
 nav ul li:hover, nav ul li.active {
   border-top-width: {{navborder_active}}px;

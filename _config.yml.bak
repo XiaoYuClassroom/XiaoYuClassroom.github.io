@@ -7,10 +7,11 @@ safe: false
 
 ### site serving configuration ###
 exclude: [CNAME, README.md, .gitignore]
-permalink: /:title ## disables post output
+permalink: / ## disables post output
 timezone: null
 lsi: false
 markdown: kramdown
+highlighter: rouge
 
 
 ### content configuration ###
@@ -32,7 +33,3 @@ colors:
   purple:    '#c869bf'
   orange:    '#fab125'
   turquoise: '#0fbfcf'
-
-kramdown:
-  auto_ids:  false
-
