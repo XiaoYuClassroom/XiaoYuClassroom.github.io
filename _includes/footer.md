@@ -5,4 +5,10 @@
 <li><a href="http://forum.xiaoyuclassroom.com"><i class="fa fa-3x fa-share-alt-square"></i></a></li>
 </ul>
 
-##### Copyright &copy; 2017 XiaoYu Classroom
+<h5 >
+Copyright &copy; <span id="footer_cr_yr"></span> XiaoYu Classroom
+</h5>
+<script type="text/javascript">
+document.getElementById("footer_cr_yr").innerHTML=new Date().getFullYear();
+</script>
+
