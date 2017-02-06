@@ -5,4 +5,4 @@
 <li><a href="http://forum.xiaoyuclassroom.com"><i class="fa fa-3x fa-share-alt-square"></i></a></li>
 </ul>
 
-##### Copyright &copy; 2015 XiaoYu Classroom
+##### Copyright &copy; 2017 XiaoYu Classroom
